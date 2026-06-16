@@ -58,6 +58,30 @@ Apply these filters to every title:
 - Title + thumbnail conceived TOGETHER — they must NOT repeat each other
 - Front-load the keyword in first 40 characters (mobile truncation)
 - Optimal length: 45-55 characters
+- Under 8 words is ideal when the idea is simple enough
+- Put numbers, dollar amounts, or time pressure early
+- Avoid exclamation marks; they often signal weak confidence
+
+## High-Frequency Beast-Style Patterns
+
+Use these only when the video can fully deliver the promise:
+
+| Pattern | Formula | Example Shape |
+|---------|---------|---------------|
+| Money Anchor | "$[amount] + [object/action]" | "$1 vs $1,000,000 [Thing]" |
+| First-Person Challenge | "I [extreme action] for [time/condition]" | "I Survived [Extreme] for [Time]" |
+| Time Pressure | "[time limit] + [challenge/stakes]" | "Last To Leave [Place] Wins [Prize]" |
+| Extreme Contrast | "[small/cheap] vs [large/expensive]" | "[Cheap Option] vs [Absurd Option]" |
+| Emotional Trigger | "I [high-emotion outcome]" | "I Helped [specific group] [specific result]" |
+
+## Title Anti-Patterns
+
+Reject or rewrite titles that do any of this:
+- **Generic listicle**: "10 Tips for AI Coding" has no stakes, conflict, or visual promise.
+- **Vague noun stack**: "AI Programming Productivity Strategy" does not create a picture.
+- **Buried payoff**: the interesting number/result appears after the mobile truncation point.
+- **Descriptive but not clickable**: the title names the topic but gives no reason to care.
+- **Unfilmable promise**: the title wins the click but the video cannot satisfy it.
 
 ## Output Format
 

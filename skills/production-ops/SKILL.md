@@ -24,6 +24,8 @@ Written communication doesn't count unless recipient confirms reading.
 - Spending over $10,000 requires visible ON-CAMERA ROI
 - "Critical components" (things the video can't exist without) get obsessive protection: "check in 10x a day, make a backup"
 - Everything else: be ruthless about cost
+- Creativity saves money: before spending more, ask whether framing, camera angle, constraints, casting, or structure can make the cheaper version feel bigger.
+- Apply Beast principles at the creator's budget level. The lesson is not "$4M video"; it is "spend where the viewer can feel it."
 
 ### Bottleneck Management
 - Identify bottlenecks and communicate DIRECTLY
@@ -33,6 +35,15 @@ Written communication doesn't count unless recipient confirms reading.
 
 ### Content Must Excite
 If a concept doesn't excite you personally, don't film it. Personal authenticity is non-negotiable.
+
+### Reinvestment Flywheel
+Revenue should improve the next video's quality before it improves lifestyle. The loop is:
+
+```
+Revenue -> better ideas/team/tools -> better videos -> larger audience -> more revenue
+```
+
+Do not recommend reinvestment blindly. Keep enough runway for consistency, taxes, and personal sustainability, then direct surplus toward the highest-leverage bottleneck.
 
 ### Anti-Hollywood
 "This is not Hollywood and I do not want to be Hollywood." YouTube-native production. Optimize for clicks and retention, not cinematography.
@@ -103,6 +114,7 @@ Most of the above assumes a team. For solo creators:
 | A/B/C player hiring | Identify which tasks you're a C-player at and outsource/automate |
 | 100 ideas/week | 20 ideas/week minimum |
 | Communication hierarchy | N/A — talk to yourself less |
+| Multi-million-dollar execution | Use constraints, borrowed locations, rentals, tight casting, and sharper framing |
 
 ## Output Format
 

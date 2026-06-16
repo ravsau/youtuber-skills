@@ -20,6 +20,7 @@ This repo is built from deep research across 10+ top YouTube creators and strate
 - **AIR Media-Tech** — 5 cutting patterns for retention editing
 - **ThumbnailTest** — Thumbnail psychology research (0.05-second decision, face CTR data)
 - **YouTube Creator Academy** — Official algorithm documentation and best practices
+- **alchaincyf/mrbeast-skill** — MIT-licensed Chinese-language MrBeast perspective skill used as an additional framework reference for data-first workflow, CTR x AVD, simple concept x extreme execution, stair-stepping, and failure-mode checklists
 
 ## Source URLs
 
@@ -42,6 +43,7 @@ This repo is built from deep research across 10+ top YouTube creators and strate
 - [Shorts vs Long-Form 2026 (Mediacube)](https://mediacube.io/en-US/blog/youtube-shorts-vs-long-videos)
 - [Title Best Practices 2026 (Humble&Brag)](https://humbleandbrag.com/blog/youtube-title-best-practices)
 - [YouTube SEO 2026 (vidIQ)](https://vidiq.com/blog/post/how-to-rank-number-one-youtube-keyword-research/)
+- [alchaincyf/mrbeast-skill](https://github.com/alchaincyf/mrbeast-skill)
 
 ## How Skills Were Built
 

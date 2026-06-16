@@ -32,6 +32,8 @@ From MrBeast on originality:
 
 Five principles in one file that directly address these issues:
 
+**Operating rule:** data before advice. If a recommendation depends on a specific channel, video, niche, competitor, or trend, research current facts first: recent performance, outliers, title/thumbnail patterns, CTR/AVD if available, search signals, and budget reality. If there are no numbers, ask for them or label assumptions clearly.
+
 | Principle | Addresses |
 |-----------|-----------|
 | Packaging First | Filming before packaging, weak titles, thumbnails as afterthought |
@@ -51,6 +53,8 @@ MrBeast generates 50+ title/thumbnail concepts before a camera turns on. The pac
 - **Title + thumbnail conceived TOGETHER, before filming** — they set the ceiling
 - **Title and thumbnail must NOT repeat each other** — each carries unique information
 - **More extreme wording always wins** — "I Survive" > "I Spent", "Bananas Are The Worst Food On Earth" > "I Don't Like Bananas"
+- **Simple concept x extreme execution** — if the idea cannot be explained in one exciting sentence, rebuild the premise
+- **Psychological friction** — same set, sharper frame. Add proof, contradiction, status risk, constraints, or personal stakes before adding budget.
 - **3 Click Triggers** (Jake Thomas, 408-title database): Curiosity (61%), Desire (46%), Fear (40%)
 - **Thumbnails**: Faces +35-50% CTR. 4 words max +30% CTR. High contrast +20-40% CTR. Closed-mouth smiles beat exaggerated expressions 100% of MrBeast's A/B tests.
 - **If the title doesn't make YOU click from a stranger's channel, kill it**
@@ -60,8 +64,9 @@ MrBeast generates 50+ title/thumbnail concepts before a camera turns on. The pac
 Every second must justify its existence. No dead time. No filler. Escalating stakes.
 
 - **First 5 seconds**: Show the viewer what they gain or lose, or retention collapses (MrBeast)
-- **First 30 seconds**: Deliver on the title's promise IMMEDIATELY. Zero preamble. Pattern interrupt at 25-35 seconds.
+- **First 30 seconds**: Show the concept, state the stakes, preview the payoff, then start action. Zero preamble. Pattern interrupt at 25-35 seconds.
 - **Every 60-90 seconds**: Complete a Setup-Tension-Payoff cycle. Each payoff transitions into the next setup. (George Blackman)
+- **Every 3-5 minutes**: Add a re-engagement moment: new twist, escalation, surprise, visual reset, or open-loop payoff.
 - **Minute 8 threshold**: YouTube starts rewarding with higher suggested placement after minute 8. Maintain energy through this point.
 - **Escalating stakes throughout** — tension builds continuously, never plateaus
 - **Sound design**: Voice dominates. Music 5-25dB quieter. Brief silence before reveals. Change tracks when the story shifts.
@@ -71,6 +76,7 @@ Every second must justify its existence. No dead time. No filler. Escalating sta
 Don't start from zero. Find what works, extract the format, adapt with your voice.
 
 - **Study outlier videos (3x+ above channel average) across 5 industries weekly** (Jake Thomas)
+- **For specific niches, inspect the current top 10 before recommending a format**
 - **Extract the FORMAT, not the topic** — strip away specifics, find the structure
 - **Adapt to your niche, voice, and expertise** — the format is borrowed, the execution is yours
 - **"There's only one time you should aim for originality: when you're adapting winning formats to your unique brand"** (MrBeast)

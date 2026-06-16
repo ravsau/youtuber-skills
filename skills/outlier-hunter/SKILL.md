@@ -8,6 +8,19 @@ argument-hint: "[your niche, or specific channels/topics to analyze]"
 
 Hunt outliers for: **$ARGUMENTS**
 
+## Research-First Protocol
+
+Do not guess when a recommendation depends on current market reality. If the user asks about a specific niche, channel, competitor, or trend, collect evidence first.
+
+Minimum useful research set:
+- **Top 10 current videos/channels** in the niche or adjacent niche
+- **Outlier multiple** vs each channel's recent average
+- **Packaging patterns**: title structure, thumbnail elements, first 5 seconds when available
+- **Trend signal**: search interest, platform momentum, or recurring audience questions
+- **Budget/ROI reality**: what the format costs and whether the upside can justify it
+
+If public data is weak, ask for the creator's last 3 videos with CTR, AVD, retention at 30 seconds, and net subscribers. Without those numbers, label assumptions clearly.
+
 ## The Method (MrBeast)
 
 "Don't copy and paste. Copy with taste."
@@ -54,6 +67,7 @@ For each outlier, deconstruct:
 - What's the underlying STRUCTURE?
 - Example: "Person tries [extreme thing] for [time period] and documents results" — works for any niche
 - Example: "[Tool A] vs [Tool B]: I tested both for [X] days" — works for any category
+- Translate expensive formats down to the creator's budget: keep the core tension, reduce the spend.
 
 ## Step 3: Adapt to Your Brand
 

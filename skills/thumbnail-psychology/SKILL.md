@@ -29,6 +29,15 @@ For each concept, specify:
 - **Visual Hook**: What single element creates intrigue?
 - **Message**: What text (4 words MAX) appears?
 
+### The 3-Part Thumbnail Test
+
+Strong thumbnails usually contain:
+- **One face**: clear emotion, readable at phone size.
+- **One object**: the money, tool, finished result, threat, or absurd visual proof.
+- **One question**: the image makes the viewer wonder what happened or what happens next.
+
+Run the zoom-out test: shrink the thumbnail to mobile home-page size. If the focal point, emotion, and question are not obvious, simplify it.
+
 ### Research-Backed Rules
 
 **Faces:**
@@ -55,6 +64,7 @@ For each concept, specify:
 - One clear focal point
 - Human figure + item together = highest impact (Derral Eves finding)
 - Negative space directs attention
+- If the title already says the claim, the thumbnail should show proof, consequence, scale, or emotion instead of repeating the claim.
 
 ## Step 3: A/B Test Plan
 

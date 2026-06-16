@@ -41,6 +41,28 @@ Basic idea + emotional stakes + conflict/constraint = stronger YouTube premise
 
 Ask: "What would make the same exact shoot feel 10x more emotionally loaded?"
 
+## Simple Concept x Extreme Execution
+
+The best premise is easy to understand and hard to ignore.
+
+```
+Viral potential = concept simplicity x execution extremity
+```
+
+Use this as a packaging filter:
+- Can the idea be explained in one sentence?
+- Can the viewer picture the video from the title and thumbnail alone?
+- Does the execution feel meaningfully harder, stranger, riskier, faster, bigger, or more generous than the normal version?
+- Is the extreme part visible on camera, or is it just production effort the viewer will not feel?
+
+Bad:
+- "A comprehensive guide to AI programming workflows"
+
+Better:
+- "I Built a Full App With AI in 10 Minutes"
+
+The second version creates an instant picture, a timer, a proof test, and a reason to watch until the end.
+
 ## Step 1: Generate 20+ Title/Thumbnail Pairings
 
 For each pairing:
@@ -69,6 +91,7 @@ MrBeast's deciding metric is **Watch Time Share**, not just CTR:
 - High CTR + low retention = clickbait penalty
 - The packaging must promise something the video ACTUALLY delivers
 - If the video can't deliver on the title's promise, kill the title
+- Ask for the CTR x AVD effect: does this change increase the chance of clicking, the chance of watching longer, or both?
 
 Rank all pairings:
 

@@ -45,6 +45,18 @@ Diagnose and fix retention for: **$ARGUMENTS**
 - Product demos: Bimodal curves typical
 - Interviews/Podcasts: 25-35%
 
+### Beast-Style Segment Targets
+
+Use these as aggressive targets for highly packaged browse content:
+
+| Time | Target | Strategy |
+|------|--------|----------|
+| 0-1 min | 90%+ retention | Perfect hook, no wasted setup |
+| 1-3 min | 80%+ retention | First escalation and clear reason to stay |
+| 3-6 min | 65%+ retention | Twist, reveal, or upgrade every 3 minutes |
+| 6 min+ | 50%+ retention | Keep stair-stepping toward the peak moment |
+| Final 30 sec | Hold or redirect | CTA, payoff, or next-video bridge |
+
 ### Engagement Ratios
 - Like-to-view: 4-8% (long-form), 3-6% (Shorts)
 - Return viewer rate: Above 10% = building an audience
@@ -59,6 +71,8 @@ The first 30 seconds are make-or-break. Check:
 - [ ] Is there a pattern interrupt at 25-35 seconds?
 - [ ] Does it establish purpose ("By the end, you'll know...")?
 - [ ] MrBeast test: Does the viewer see what they gain or lose in first 5 seconds?
+- [ ] Does it show the best visual proof, final result, or biggest problem before explaining background?
+- [ ] Is action underway by 15-30 seconds?
 
 If any box is unchecked, rewrite the opening.
 
@@ -101,6 +115,15 @@ YouTube starts rewarding with higher suggested placement after minute 8. If your
 - Maintain high energy through minute 8
 - Place a strong payoff or reveal just past the 8-minute mark
 - This triggers algorithmic momentum for suggested placement
+
+## Step 5.5: Re-Engagement Moments
+
+If the curve drops every few minutes, add a re-engagement moment every 3-5 minutes:
+- New rule or constraint
+- New visual environment
+- Unexpected failure
+- Bigger prize, cost, timer, or consequence
+- Open loop payoff followed by a new open loop
 
 ## Step 6: Sound Design Check
 

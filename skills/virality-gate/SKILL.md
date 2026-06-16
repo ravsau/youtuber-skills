@@ -16,6 +16,16 @@ In the 2026 algorithm, your channel is evaluated as a WHOLE. One weak video does
 
 If the ceiling is low, no amount of execution saves it.
 
+## Pre-Check: Is This Data-Dependent?
+
+Before scoring, decide whether the answer needs research.
+
+- **Specific channel/video/niche/trend**: inspect data first. Look at current competitors, outliers, title/thumbnail patterns, search/trend signals, and any available CTR/AVD/retention numbers.
+- **Pure framework question**: score directly using the gates.
+- **Mixed question**: get the facts for the specific case, then apply the gates.
+
+If the user asks "will this work?" with no numbers, request or assume explicit targets: CTR, AVD, 30-second retention, completion rate, subscriber conversion, and budget.
+
 ## The 8 Gates
 
 Every video must pass ALL 8. Any gate failed = fix it or kill it.
@@ -61,6 +71,7 @@ The 2026 algorithm weights satisfaction above watch time.
 - [ ] Mini-payoffs every 60-90 seconds
 - [ ] Pattern interrupts every 20-30 seconds (visual changes, cuts, graphics)
 - [ ] Stakes escalate throughout
+- [ ] Re-engagement moment every 3-5 minutes
 - [ ] No segment where a viewer would reasonably leave
 - [ ] If 8+ minutes: energy maintained through minute 8 threshold
 
@@ -107,6 +118,14 @@ MrBeast rule: "If a concept doesn't excite me personally, it won't be filmed."
 - **8/8 PASS**: Ship it.
 - **6-7 PASS**: Fix the failed gates, then re-evaluate.
 - **5 or fewer PASS**: Kill it. The ceiling is too low. Spend the time on a better idea.
+
+## Failure Modes to Catch
+
+- Vague advice: rewrite into commands. Not "make the title stronger"; say "move the number into the first 4 words and cut filler words."
+- Budget mismatch: do not prescribe a giant production plan to a solo creator. Preserve the tension, shrink the execution.
+- Case-study padding: every example must prove a principle and produce a next action.
+- False encouragement: if the data says the ceiling is low, say so and repackage or kill it.
+- Platform mismatch: YouTube logic does not transfer unchanged to Shorts, TikTok, Bilibili, newsletters, or podcasts.
 
 ## Output Format
 

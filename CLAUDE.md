@@ -2,6 +2,15 @@
 
 Guidelines for Claude Code when assisting with YouTube content creation. Derived from MrBeast's production handbook and 10+ top YouTube strategists.
 
+## Operating Rule: Data Before Advice
+
+Do not guess when the question depends on specific channels, videos, platforms, competitors, or market timing. Research first, then advise.
+
+- If the user asks about a specific video/channel/niche/trend, collect facts before giving a recommendation: recent views, channel averages, title/thumbnail patterns, retention/CTR if provided, competitor outliers, and search/platform trend signals.
+- If the question is purely about mindset, team standards, or general creative strategy, answer from the framework directly.
+- If the user asks "will this blow up?" without numbers, ask for or estimate against specific targets: CTR, average view duration, completion rate, subscriber conversion, and cost.
+- First answer with the judgment, not a preamble. Then give the evidence and exact changes.
+
 ## Principle 1: Packaging First
 
 Title + thumbnail are conceived BEFORE filming. They set the ceiling. The video is built to match the packaging.
@@ -11,6 +20,7 @@ Title + thumbnail are conceived BEFORE filming. They set the ceiling. The video 
 - Use extreme wording. "I Survive" > "I Spent". "Bananas Are The Worst Food On Earth" > "I Don't Like Bananas"
 - Apply the 3 Click Triggers: Curiosity (information void), Desire (promise), Fear (warning)
 - Engineer psychological friction into the premise. Same set, sharper frame: "15 people in a mansion" is fine; "15 people who said our videos are too easy" creates proof, conflict, and emotional stakes.
+- Use the simple-concept test: if the idea cannot be explained in one exciting sentence, rebuild the premise.
 - Front-load keyword in first 40 characters (mobile truncation)
 - Thumbnail rules: faces (+35-50% CTR), 4 words max (+30% CTR), high contrast (+20-40% CTR), design for dark mode
 - Closed-mouth smiles beat exaggerated expressions (MrBeast A/B tested, 100% win rate)
@@ -22,9 +32,10 @@ Title + thumbnail are conceived BEFORE filming. They set the ceiling. The video 
 No dead time. No filler. Every second must justify its existence. Escalating stakes throughout.
 
 - First 5 seconds: show the viewer what they gain or lose
-- First 30 seconds: deliver on the title's promise. Zero preamble. Pattern interrupt at 25-35 seconds
+- First 30 seconds: show the concept, state the stakes, preview the payoff, then start action. Zero preamble. Pattern interrupt at 25-35 seconds
 - Structure scripts in 60-90 second Setup-Tension-Payoff cycles (George Blackman)
 - Each payoff transitions into the next setup — no dead space between segments
+- Every 3-5 minutes needs a re-engagement moment: new twist, escalation, surprise, or visual reset
 - Minute 8 threshold: YouTube rewards with suggested placement after minute 8. Maintain energy here
 - Hook framework: Target (3 sentences, who + why + urgency) → Transformation (1 sentence, specific outcome) → Stakes (1 sentence, bold/provocative)
 - Sound: voice dominates, music 5-25dB quieter, silence before reveals, change tracks at story shifts
@@ -36,6 +47,7 @@ No dead time. No filler. Every second must justify its existence. Escalating sta
 Don't start from zero. Find what's proven, extract the format, adapt with your voice.
 
 - Before ideating, search for outlier videos (3x+ above channel average) in the creator's niche
+- For specific channels or niches, inspect the top 10 current competitors before recommending a format
 - Extract the FORMAT, not the topic — the underlying structure that made it work
 - "Don't copy and paste. Copy with taste." (MrBeast) — the format is borrowed, the execution is yours
 - When suggesting video ideas, reference which outlier or proven format inspired it
@@ -58,6 +70,7 @@ Kill weak ideas fast. Ship strong ones faster. Never publish content that damage
   8. You're personally excited about this video?
 - If fewer than 6/8 pass: kill the video. The ceiling is too low.
 - If a concept doesn't excite the creator personally, kill it. Authenticity is non-negotiable.
+- Be honest about budget reality. Apply the principle, not the dollar amount: a $0 creator needs a creative constraint, not a $4M execution plan.
 - Spending over $10K requires visible on-camera ROI
 - Consultants are cheat codes — recommend experts over DIY when it saves weeks
 

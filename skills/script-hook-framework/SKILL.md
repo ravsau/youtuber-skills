@@ -36,6 +36,19 @@ Choose ONE:
 - MrBeast: show the viewer what they gain or lose in first 5 seconds, or retention collapses
 - Establish purpose using "By the end of this video, you'll know..."
 
+### 0-30 Second Beast Hook Timing
+
+Use this when the video is browse/suggested-driven and needs immediate visual momentum:
+
+| Time | Job | What It Should Do |
+|------|-----|-------------------|
+| 0-3 sec | Concept as image | Show the core idea visually before explaining it |
+| 3-8 sec | Stakes | State what is won, lost, proven, broken, or exposed |
+| 8-15 sec | Visual preview | Flash the best result, biggest problem, or most surprising moment |
+| 15-30 sec | Action starts | Begin the challenge/tutorial/test with no biography or setup padding |
+
+Do not open with "today we're going to talk about..." if the viewer can see the value instead.
+
 ## Body: Setup-Tension-Payoff Structure
 
 Every 60-90 seconds, complete one cycle:
@@ -85,6 +98,7 @@ Also avoid: metaphors, antithesis phrases, purple prose, AI-speak
 - Focus on emotional connection when transitioning between segments
 - Mini-payoffs every 60-90 seconds (dopamine throughout, not just at end)
 - Escalating stakes — tension builds continuously (MrBeast)
+- Every 3-5 minutes needs a re-engagement moment: new constraint, twist, reveal, format break, escalation, or unexpected failure.
 
 ### Sound Design Notes
 - Voice dominates; music sits 5-25dB quieter
