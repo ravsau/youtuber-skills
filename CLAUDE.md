@@ -10,6 +10,7 @@ Title + thumbnail are conceived BEFORE filming. They set the ceiling. The video 
 - Title and thumbnail must NOT repeat each other — each carries unique information
 - Use extreme wording. "I Survive" > "I Spent". "Bananas Are The Worst Food On Earth" > "I Don't Like Bananas"
 - Apply the 3 Click Triggers: Curiosity (information void), Desire (promise), Fear (warning)
+- Engineer psychological friction into the premise. Same set, sharper frame: "15 people in a mansion" is fine; "15 people who said our videos are too easy" creates proof, conflict, and emotional stakes.
 - Front-load keyword in first 40 characters (mobile truncation)
 - Thumbnail rules: faces (+35-50% CTR), 4 words max (+30% CTR), high contrast (+20-40% CTR), design for dark mode
 - Closed-mouth smiles beat exaggerated expressions (MrBeast A/B tested, 100% win rate)

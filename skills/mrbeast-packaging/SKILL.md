@@ -14,6 +14,33 @@ Generate packaging concepts for: **$ARGUMENTS**
 
 "I Spent 50 Hours In Ketchup" vastly outperforms "I Spent 50 Hours In My Front Yard" — same effort, wildly different packaging. The packaging IS the product.
 
+## Psychological Friction Framework
+
+Virality is rarely about building a bigger set. It is about framing the same set so the viewer feels tension before the video starts.
+
+Weak premise:
+- "15 people in a mansion"
+
+Stronger premise:
+- "15 people who said our videos are too easy in a mansion"
+
+Same location, similar production effort, higher ceiling. The stronger frame makes viewers wonder who will prove themselves, who will quit, who will get humbled, and whether the criticism was fair.
+
+Before increasing budget, reframe the current set or challenge with at least one friction source:
+- **Proof**: Someone must prove a claim, skill, belief, or identity.
+- **Contradiction**: The participant's stated belief conflicts with the challenge.
+- **Status risk**: Someone can be embarrassed, exposed, humbled, or vindicated.
+- **Constraint**: Time, money, rules, scarcity, or discomfort makes success harder.
+- **Personal stakes**: The outcome matters to the participant, not just the host.
+
+Formula:
+
+```
+Basic idea + emotional stakes + conflict/constraint = stronger YouTube premise
+```
+
+Ask: "What would make the same exact shoot feel 10x more emotionally loaded?"
+
 ## Step 1: Generate 20+ Title/Thumbnail Pairings
 
 For each pairing:
