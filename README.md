@@ -29,6 +29,8 @@ The title answers the question with a number and a failure. The thumbnail shows 
 
 | Skill | Give it | Get back |
 |-------|---------|----------|
+| [youtube-lane](skills/youtube-lane/) | channel, 3 videos you liked, what you sell | 3 lanes with buyer, engine, proof titles, 60-day kill test |
+| [youtube-comments-to-ideas](skills/youtube-comments-to-ideas/) | pasted comments | 5 ideas, each tied to the comment that proves demand |
 | [youtube-packaging](skills/youtube-packaging/) | a topic | 5 title + thumbnail pairs, scored, with image prompts |
 | [youtube-script](skills/youtube-script/) | a packaged title | hook + setup-tension-payoff script |
 | [youtube-retention](skills/youtube-retention/) | a retention curve | timestamped fix list |
@@ -38,7 +40,7 @@ The title answers the question with a number and a failure. The thumbnail shows 
 | [youtube-shorts](skills/youtube-shorts/) | a topic | Shorts / long-form / both, with a calendar |
 | [youtube-monetization](skills/youtube-monetization/) | niche, subs, revenue | ranked revenue stack, 90-day plan |
 
-Every skill is 40-70 lines: input, output, steps, template, one example.
+Every skill is under 70 lines: input, output, steps, template, one example.
 
 ## Install
 
