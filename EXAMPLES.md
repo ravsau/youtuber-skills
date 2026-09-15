@@ -1,140 +1,68 @@
-# Examples: Before and After
+# Examples: same prompt, without and with the skill
 
-Real examples of how these principles change Claude Code's output when helping with YouTube content.
+Invented topics. No numbers here are real channel data.
 
----
+## youtube-packaging
 
-## Principle 1: Packaging First
+Prompt: `package this: how many coding agents a 128GB Mac can run at once before it breaks`
 
-### Before (without guidelines)
+Without:
 
-**You:** "Help me make a video about AWS cost optimization"
+> Title: "How Many AI Agents Can a 128GB Mac Run? (Tested)"
+> Thumbnail: Mac Studio, the text "128GB vs AI Agents", a robot icon.
 
-**Claude:** "Here's a script outline for 'AWS Cost Optimization Tips'..."
+With:
 
-### After (with guidelines)
+> #1 "I Ran 12 Coding Agents on One Mac. It Broke at 9" (48 chars). Thumbnail: creator wincing beside a Mac Studio, Activity Monitor memory bar pinned red. Text: "agent 9". Click 5, Deliver 4.
+> #2 "128GB of RAM Is Not Enough for This" (36 chars). Thumbnail: nine terminal windows tiled, one frozen cursor. Text: "$4,000 Mac". Click 4, Deliver 4.
+> Pick: #1. Image prompt: photo-realistic 16:9, Activity Monitor pinned red, text "agent 9", no extra text, no logos, no watermark.
 
-**You:** "Help me make a video about AWS cost optimization"
+What changed: the title answers with a number and a failure. The thumbnail shows the break instead of repeating "128GB".
 
-**Claude:** "Before we script anything, let's nail the packaging. Here are 10 title options ranked by ceiling:
+Prompt: `package this: Claude Code skipped my AGENTS.md rules until I added one line`
 
-1. 'AWS Charged Me $14,000. Here's How I Got It to $400' (Curiosity + Fear, 48 chars, IMPACT: 26/30)
-2. 'Stop Overpaying for AWS — The $0 Fix Nobody Uses' (Desire + Curiosity, 50 chars, IMPACT: 24/30)
-3. ...
+Without:
 
-Thumbnail direction for #1: Close-up face with shock expression, AWS bill showing $14,000 crossed out, '$400' in large yellow text. Dark background for dark mode."
+> Title: "Why Claude Code Ignores Your AGENTS.md File (And How to Fix It)"
+> Thumbnail: Claude logo, a file icon, the text "AGENTS.md not working?".
 
-**Why it's better:** The packaging is conceived first. The video will be built to deliver on whichever title wins.
+With:
 
----
+> #1 "Claude Code Read My Rules and Ignored Them" (42 chars). Thumbnail: split terminal, left the rule, right the agent doing the opposite; creator with a flat stare. Text: "one line fixes it". Click 5, Deliver 5.
+> Rejected: "The AGENTS.md Line Nobody Adds" ("Nobody" construction).
 
-## Principle 2: Earn Every Second
+What changed: the contradiction is the title. The how-to frame and the "Nobody" title are dropped by rule.
 
-### Before
+## youtube-script
 
-```
-0:00 - "Hey everyone, welcome back to the channel. Today we're going to talk about
-        something really interesting. So I've been working with AWS for a while now
-        and I wanted to share some tips..."
-```
+Prompt: `script the open for "I Ran 12 Coding Agents on One Mac. It Broke at 9"`
 
-### After
+Without:
 
-```
-0:00 - [Screen: AWS bill showing $14,000]
-        "This is my real AWS bill from last month. Fourteen thousand dollars.
-         And this—" [cut to bill showing $400] "—is this month. Same workload.
-         Here's exactly what I changed."
+> "Hey everyone, welcome back. Today I want to talk about running multiple AI agents on a Mac. I have been testing this for a while and..."
 
-0:25 - [Pattern interrupt: quick zoom, music shift]
-        "By the end of this video, you'll know the 4 things eating your AWS budget
-         and how to fix each one in under an hour."
-```
+With:
 
-**Why it's better:** Value in 5 seconds. Promise delivered immediately. Zero filler before the hook. Pattern interrupt at 25 seconds.
+> 0:00 [screen: Activity Monitor, memory pressure red] "Agent nine is where this Mac gave up. Twelve were supposed to run."
+> 0:06 "If you are about to buy a 128GB Mac for agents, this is the number you need before you pay."
+> 0:14 "Here is the setup, the moment it broke, and the one setting that got me to eleven."
+> 0:25 [pattern interrupt: cut to the terminal grid]
 
----
+What changed: the failure is on screen in the first second. The promise and the stakes land before 15 seconds.
 
-## Principle 3: Copy With Taste
+## youtube-virality-gate
 
-### Before
+Prompt: `gate this: "Local LLM Setup Tutorial 2026", 22 min screen recording, no test result in the video`
 
-**You:** "What video should I make next?"
+Without:
 
-**Claude:** "Here are some ideas:
-- 'How to Use AWS Lambda'
-- 'Introduction to Terraform'
-- 'Cloud Computing Explained'"
+> "Looks good! Here are some tips to improve engagement..."
 
-### After
+With:
 
-**You:** "What video should I make next?"
+> Gate 1 Packaging: FAIL. "Setup Tutorial" names the topic, gives no reason to click.
+> Gate 3 Payoff: FAIL. No measured result, so the viewer has nothing to wait for.
+> Gate 6 Length: FIX. 22 minutes for a setup with no result; cut to the first working run.
+> Verdict: KILL until the video proves one thing. Re-gate as "It Took 4 Tries to Run Qwen on a Mac. Here Is the One That Worked".
 
-**Claude:** "Let me check outliers in your niche first.
-
-Outlier found: 'I Tried Every Cloud Provider So You Don't Have To' — 847K views on a 50K-subscriber channel (17x above average). Format: comparative test with personal narrative.
-
-Your adaptation: 'I Ran the Same App on AWS, Azure, and GCP. The Bill Was Insane.'
-- Same format (comparative test), your niche (cost), your voice (ex-Amazon insider)
-- Thumbnail: three cloud logos with price tags, your face showing shock at the biggest one"
-
-**Why it's better:** Idea grounded in proven demand, not guesswork. Format extracted from an outlier. Adapted to the creator's unique angle.
-
----
-
-## Principle 4: Kill or Ship
-
-### Before
-
-**You:** "I filmed a video about Docker basics. Help me upload it."
-
-**Claude:** "Here's a title and description for your Docker basics video..."
-
-### After
-
-**You:** "I filmed a video about Docker basics. Help me upload it."
-
-**Claude:** "Let me run the quality gates first:
-
-| Gate | Status | Issue |
-|------|--------|-------|
-| 1. Title Click Trigger | FAIL | 'Docker Basics' has no curiosity, desire, or fear trigger |
-| 2. Thumbnail-Title Synergy | FAIL | Need to see thumbnail |
-| 3. First 5 Seconds | ? | What's the opening? |
-| 4. Satisfaction Delivery | PASS | Tutorial delivers what it promises |
-| 5. Retention Architecture | ? | Need to review edit |
-| 6. Subscribe-Worthy | FAIL | 'Docker basics' exists from 500 other channels |
-| 7. Format Validation | FAIL | No outlier evidence for this format in your niche |
-| 8. Personal Excitement | ? | Are you excited about this? |
-
-Score: 1/8 confirmed pass, 3 unknown, 4 fails.
-
-**Recommendation: KILL or repackage.** The ceiling is too low. Consider: 'I Deployed My App with Docker in 4 Minutes (No Tutorials Needed)' — same content, 10x the packaging."
-
-**Why it's better:** Weak video caught before it damages the channel. Repackaging suggestion saves the work while raising the ceiling.
-
----
-
-## Principle 5: Obsess the Viewer
-
-### Before
-
-**You:** "I want to make a series about Kubernetes."
-
-**Claude:** "Great! Here's a 10-part Kubernetes series outline..."
-
-### After
-
-**You:** "I want to make a series about Kubernetes."
-
-**Claude:** "Before we outline, let me ask about your viewer:
-
-1. What's their biggest frustration with Kubernetes right now? (DevOps engineer who inherited a cluster? Manager trying to understand costs? Developer forced to learn it?)
-2. What do they NOT want? (Theory-heavy lectures? Basic 'what is a pod' content they've seen 50 times?)
-3. What would make them subscribe after episode 1?
-
-Also: the 2026 algorithm prioritizes series formats. If we structure this as a numbered series with consistent packaging, YouTube will actively promote later episodes to people who watched earlier ones.
-
-And one data point: educational content gets 80% of its views 6+ months after upload. This series will compound. Let's make episode 1 strong enough to carry the rest."
-
-**Why it's better:** Starts with the viewer, not the topic. Uses algorithm knowledge (series priority). Sets expectations for long-term compounding.
+What changed: a verdict with a reason per gate, and a re-package that gives the video a ceiling.
