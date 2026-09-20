@@ -14,7 +14,7 @@ Output: one surface to win on, the title/description/tags to use, and 3 long-tai
 1. Name the buyer query. Write the exact phrase a viewer types when they need this video. If no phrase exists, the surface is browse.
 2. Pick the surface. Search when the query exists and the channel can answer it better than the top 3 results. Browse when the topic is a want, not a need.
 3. Rewrite the title. Search: keyword inside the first 40 characters. Browse: the packaging line from the packaging skill.
-4. Write the first three description lines: line 1 keyword + claim, line 2 what the viewer gets, line 3 the second keyword. Then chapters and links.
+4. Write the first three description lines: line 1 keyword + claim, line 2 what the viewer gets, line 3 the second keyword. The full body and footer come from the youtube-description skill, in this surface's shape.
 5. List 5-10 tags and 3 long-tail keywords with a low, medium, or high competition guess.
 6. If metrics were given, name the one problem: CTR is a packaging problem, midpoint retention is an editing problem, no session continuation is an end-screen problem.
 

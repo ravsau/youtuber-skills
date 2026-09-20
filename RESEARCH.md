@@ -22,6 +22,20 @@ This repo is built from deep research across 10+ top YouTube creators and strate
 - **YouTube Creator Academy** — Official algorithm documentation and best practices
 - **alchaincyf/mrbeast-skill** — MIT-licensed Chinese-language MrBeast perspective skill used as an additional framework reference for data-first workflow, CTR x AVD, simple concept x extreme execution, stair-stepping, and failure-mode checklists
 
+### Description Audit (2026-09-20)
+Pulled with yt-dlp, read in full. Basis for the `youtube-description` skill.
+- **MrBeast**, 4 uploads: v9QtM6qnG50 (Sep 19, 21.5M views at read), gTKS8SAwUzE (Sep 5, 107.9M),
+  Qtl8lJwbd4g (Aug 22, 108.3M), Af6i6ChAVTw (Aug 8, 115.4M). Findings: one footer byte-identical
+  across all four (sister channels, merch, Viewstats, business email, music credit, socials,
+  hiring); sponsor blocks first, one plain sentence + link + code + legal text; one paragraph per
+  video that answers the top objection (gear recovered, officers off duty, trees replanted);
+  two of four open with a lowercase premise line; zero chapters, zero tags, zero hashtags.
+- **AI teaching lane**, 2 most recent uploads each from nateherk, bycloudAI, matthew_berman,
+  edward.donner, houseofel-ai, JulianGoldieSEO, samwitteveenai, AIJasonZ. Findings: sponsor
+  block first on 5 of 8; chapters on 5 of 8; a footer identical across both uploads on 3 of 8
+  (nateherk, bycloudAI, JulianGoldieSEO); newsletter on 3 of 8; community link on 4 of 8;
+  a comment question on almost none; no channel writes a long body paragraph.
+
 ## Source URLs
 
 - [MrBeast Production Handbook (Simon Willison)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
@@ -58,6 +72,7 @@ Each skill maps to a topic area from the research:
 | retention-surgeon | AIR Media-Tech, MrBeast, retention research |
 | algorithm-2026 | vidIQ, OutlierKit, YouTube Creator Academy |
 | shorts-strategy | Mediacube, vidIQ, YouTube internal data |
+| youtube-description | Description Audit 2026-09-20 (MrBeast x4, AI teaching lane x8) |
 | seo-discovery | vidIQ, Think Media |
 | monetization-stack | Colin & Samir, Roberto Blake, Ali Abdaal, Derral Eves |
 | production-ops | MrBeast Handbook, Paddy Galloway |
