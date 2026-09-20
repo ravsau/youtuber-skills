@@ -30,10 +30,11 @@ CRITICAL: never output a title the video cannot deliver.
 - Max 3 elements: one face or subject, one object or proof, one text block of at most 4 words.
 - Text is not in the title.
 - Must read at 168x94 px on a dark background.
+- Beat the interface. YouTube's own UI is red, white, black and grey, so a thumbnail built from those colors camouflages into the page. Pick one accent color the UI never uses (cyan, lime, orange, magenta, teal) and give it the largest block of the frame. Keep red for one small alarm element only, never the background.
 
 ## Image prompt rules
 
-Write the prompt for a photo-realistic 16:9 thumbnail generator. Include, in this order: subject and expression, the one object or proof element, the text block with exact words and placement, background and two colors, framing. Add "no extra text, no logos, no watermark".
+Write the prompt for a photo-realistic 16:9 thumbnail generator. Include, in this order: subject and expression, the one object or proof element, the text block with exact words and placement, background and two colors (one must be the non-UI accent color), framing. Add "no extra text, no logos, no watermark".
 
 ## Output format
 
@@ -64,4 +65,4 @@ Input: `how many coding agents a 128GB Mac can run at once before it breaks; sol
 
 Pick: #1. The title gives the count, the thumbnail shows the moment it failed, and the video can show both.
 
-**#1 prompt:** Photo-realistic 16:9 YouTube thumbnail. A man in his 30s, wincing, one hand on a Mac Studio on a desk; a large monitor behind him shows Activity Monitor with the memory pressure bar pinned red. Text block bottom-left in thick white sans-serif with black outline: "agent 9". Background dark charcoal with a red rim light on the monitor edge. Medium close-up, subject on the left third, monitor fills the right. No extra text, no logos, no watermark.
+**#1 prompt:** Photo-realistic 16:9 YouTube thumbnail. A man in his 30s, wincing, one hand on a Mac Studio on a desk; a large monitor behind him shows Activity Monitor with the memory pressure bar pinned red. Text block bottom-left in thick white sans-serif with black outline: "agent 9". Background deep teal with a cyan rim light on the monitor edge and one small red alert dot on screen. Medium close-up, subject on the left third, monitor fills the right. No extra text, no logos, no watermark.
