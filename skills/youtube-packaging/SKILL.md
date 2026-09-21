@@ -1,68 +1,37 @@
 ---
 name: youtube-packaging
 description: "5 title + thumbnail pairs with paste-ready image prompts from a topic. Use before recording or when asked to package a video."
-argument-hint: "[topic or rough title] [optional: niche, who is on camera, one data point the video proves]"
+argument-hint: "[topic or rough title] [optional: niche, footage/assets, who is on camera, proven data]"
 ---
 
 # YouTube Packaging
 
-Input: a topic, and if given, the niche, who is on camera, and the one number the video proves.
-Output: 5 title + thumbnail pairs, one image prompt per pair, one recommended pick.
+Input: a topic plus any available footage, assets, audience, and proven data.
+Output: 5 title + thumbnail pairs, one image prompt per pair, and one recommended pick.
+Use these skill-specific defaults for package output; apply broader style heuristics only when they fit the actual video.
 
 ## Steps
 
-1. Write the video's one-sentence promise: who watches, what they get, what it costs them today.
-2. Draft 5 titles. Use at least one of each: curiosity gap, fear or warning, specific result with a number.
-3. For each title, write a thumbnail that adds new information. If the title states the claim, the thumbnail shows proof, scale, or consequence. Never repeat the title words in the thumbnail.
-4. Write the image prompt for each thumbnail (rules below).
-5. Score each pair 1-5 on click and 1-5 on deliverable. Recommend the highest sum. Reject any pair the video cannot deliver.
+1. State the viewer promise in one sentence. Note what the planned video can actually show.
+2. Draft 5 concise, front-loaded titles. Use varied angles supported by the footage; numbers, fear, and curiosity are optional, never filler.
+3. Sketch distinct concepts for the same promise (for example, real proof, the workflow, or a consequence) before refining crops, colors, or text. Each thumbnail should add useful information; it may repeat a necessary name or unit.
+4. Apply the truth, legibility, feed-context, and comprehension checks in [Visual checks and example](VISUAL-CHECKS.md). Truth and readable meaning are hard gates.
+5. Compare passing pairs on appeal, clarity, distinctiveness, and brand fit. These are subjective editorial judgments, not CTR predictions. Recommend the strongest fit; explain the choice briefly.
 
-CRITICAL: never output a title the video cannot deliver.
+When metrics are available, do not diagnose packaging from a universal CTR cutoff. Read CTR alongside traffic source, impressions, audience, timing, and comparable channel history.
 
-## Title rules
+## Title and thumbnail defaults
 
-- 45-55 characters. Put the payload in the first 40.
-- Plain words. Active voice. One number or one named thing.
-- No "Nobody Tells You", no "Ultimate Guide", no exclamation mark.
-
-## Thumbnail rules
-
-- Max 3 elements: one face or subject, one object or proof, one text block of at most 4 words.
-- Text is not in the title.
-- Must read at 168x94 px on a dark background.
-- Beat the interface. YouTube's own UI is red, white, black and grey, so a thumbnail built from those colors camouflages into the page. Pick one accent color the UI never uses (cyan, lime, orange, magenta, teal) and give it the largest block of the frame. Keep red for one small alarm element only, never the background.
-
-## Image prompt rules
-
-Write the prompt for a photo-realistic 16:9 thumbnail generator. Include, in this order: subject and expression, the one object or proof element, the text block with exact words and placement, background and two colors (one must be the non-UI accent color), framing. Add "no extra text, no logos, no watermark".
+- Keep titles succinct and put the main promise early. 45–55 characters is a drafting preference, not a minimum; do not pad a clear title.
+- Prefer plain words and active voice. Avoid "Nobody Tells You," "Ultimate Guide," and exclamation marks.
+- Use at most 3 main visual elements. Text is optional; default to 4 words or fewer, with a little more allowed when it stays plainly readable.
+- A face is optional. Choose a supplied, real photo only when the person's identity or expression helps; an object-led image can carry the story.
+- During filming, capture useful real frames of the face, hardware, and result when available. For image prompts, specify subject/object, any exact text, background, framing, and the real asset to use. Never invent the creator's identity, footage, data, screenshots, benchmarks, or results. Conceptual illustrations and fictional people are allowed when clearly illustrative and not presented as captured evidence.
 
 ## Output format
 
-```markdown
-## Packaging: [topic]
+Use a table with title, character count, thumbnail concept, image text, truth/readability gate, and brief editorial notes. Then give the pick and one image prompt per pair. Never recommend a pair that fails a hard gate.
 
-| # | Title | Chars | Thumbnail (what it shows) | Text on image | Click | Deliver |
-|---|-------|-------|---------------------------|---------------|-------|---------|
-| 1 | ... | 48 | ... | "..." | 4 | 5 |
+## Changelog
 
-### Pick: #N
-Why: one line.
-
-### Image prompts
-**#1:** [prompt]
-**#2:** [prompt]
-...
-```
-
-## Example
-
-Input: `how many coding agents a 128GB Mac can run at once before it breaks; solo dev on camera; local AI niche`
-
-| # | Title | Chars | Thumbnail | Text | Click | Deliver |
-|---|-------|-------|-----------|------|-------|---------|
-| 1 | I Ran 12 Coding Agents on One Mac. It Broke at 9 | 48 | Creator, wince, beside a Mac Studio; Activity Monitor with memory bar pinned red | "agent 9" | 5 | 4 |
-| 2 | 128GB of RAM Is Not Enough for This | 36 | Nine terminal windows tiled on a screen, one shows a frozen cursor, creator points at it | "$4,000 Mac" | 4 | 4 |
-
-Pick: #1. The title gives the count, the thumbnail shows the moment it failed, and the video can show both.
-
-**#1 prompt:** Photo-realistic 16:9 YouTube thumbnail. A man in his 30s, wincing, one hand on a Mac Studio on a desk; a large monitor behind him shows Activity Monitor with the memory pressure bar pinned red. Text block bottom-left in thick white sans-serif with black outline: "agent 9". Background deep teal with a cyan rim light on the monitor edge and one small red alert dot on screen. Medium close-up, subject on the left third, monitor fills the right. No extra text, no logos, no watermark.
+- 2026-09-20: Added evidence, concept, comprehension, and feed-context gates; made style rules contextual and editorial scores explicitly subjective.
