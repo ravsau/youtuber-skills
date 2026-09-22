@@ -7,6 +7,7 @@ argument-hint: "[pasted comments, or a video URL if the agent can fetch comments
 # YouTube Comments to Ideas
 
 Input: pasted comments from one or more videos. A video URL works if the agent can fetch comments.
+Data source: if `youtube-connect` is set up, fetch the comments with the Data API. Else ask the user to paste them.
 Output: 5 video ideas, each with the quoted comment, the buyer, a working title, and a demand count.
 
 ## Steps

@@ -7,6 +7,7 @@ argument-hint: "[paste the retention curve points, or describe the video and its
 # YouTube Retention
 
 Input: retention curve points or a description of the video and its average view duration.
+Data source: if `~/.youtube-skills/metrics/<VIDEO_ID>.json` exists (see `youtube-connect`), read `retention` and `curve` from it. Else ask the user to paste the curve points from Studio.
 Output: the curve shape, the problem timestamps, one cutting pattern, and a fix list in priority order.
 
 ## Steps

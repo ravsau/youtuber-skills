@@ -6,7 +6,7 @@ argument-hint: "[title] [transcript, notes or chapter list] [optional: surface (
 
 # YouTube Description
 
-Input: title, transcript or notes, surface and metrics if known. Output: the surface call, the title check, one paste-ready description (head, body in the surface's shape, fixed footer), tags and 3 long-tail keywords.
+Input: title, transcript or notes, surface and metrics if known. If `~/.youtube-skills/metrics/<VIDEO_ID>.json` exists (see `youtube-connect`), read CTR and `traffic_sources` from it. Output: the surface call, the title check, one paste-ready description (head, body in the surface's shape, fixed footer), tags and 3 long-tail keywords.
 
 Source: an audit of four MrBeast uploads and eight AI teaching channels (RESEARCH.md). MrBeast
 runs one byte-identical footer, one objection paragraph per video, money on top, socials at the

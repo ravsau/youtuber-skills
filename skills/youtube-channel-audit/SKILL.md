@@ -7,6 +7,7 @@ argument-hint: "[channel name or URL] [last 10-20 uploads: title, views, date] [
 # YouTube Channel Audit
 
 Input: the channel, its last 10-20 uploads with views and dates, and the channel page elements if known.
+Data source: if `~/.youtube-skills/metrics/channel.json` exists (see `youtube-connect`), read the uploads, views, and subscribers from it. Else ask the user to paste them.
 Output: the publish bar, the outlier variable to test next, one fix per channel surface, and a 30-day order of work.
 
 ## Steps

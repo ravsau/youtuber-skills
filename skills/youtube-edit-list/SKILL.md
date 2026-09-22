@@ -7,6 +7,7 @@ argument-hint: "[timestamped transcript or rough-cut notes] [optional: retention
 # YouTube Edit List
 
 Input: a timestamped transcript or rough-cut notes, plus the retention drops and cutting pattern if the video is a re-cut.
+Data source: if `~/.youtube-skills/metrics/<VIDEO_ID>.json` exists (see `youtube-connect`), take the drops from its `retention.cliffs`.
 Output: an edit decision list an editor can execute without watching the whole file, chapters, and the end frame.
 
 ## Steps

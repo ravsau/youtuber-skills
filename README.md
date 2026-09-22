@@ -41,8 +41,19 @@ The title answers the question with a number and a failure. The thumbnail shows 
 | [youtube-shorts](skills/youtube-shorts/) | a topic | Shorts / long-form / both, with a calendar |
 | [youtube-monetization](skills/youtube-monetization/) | niche, subs, revenue | ranked revenue stack, 90-day plan |
 | [youtube-channel-audit](skills/youtube-channel-audit/) | last 10-20 uploads, channel page | top-20% publish bar, outlier variable, page fixes |
+| [youtube-connect](skills/youtube-connect/) | your Google account, once | real views, CTR, retention curves and comments for the skills above |
 
 Every skill is under 90 lines: input, output, steps, template, one example.
+
+## Connect your channel (optional, recommended)
+
+Without a connection, the skills that use numbers (retention, channel audit, description, comments, edit list) ask you to paste them from Studio. With `youtube-connect`, they read the real numbers instead: views, impressions, CTR, average view duration, the full retention curve, and comments.
+
+```
+/youtube-connect setup
+```
+
+The agent walks the Google Cloud Console with your browser, you click Allow once, and the access is read-only. The skill ships no code. The agent writes a short script in your folder and shows it before it runs. Details in [youtube-connect](skills/youtube-connect/).
 
 ## Install
 
