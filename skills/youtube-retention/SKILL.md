@@ -56,6 +56,8 @@ Shape: [cliff / gradual / bump / flat]. Average: [X]%, [good / great / problem] 
 3. ...
 
 ### Rewatch spike: [m:ss or none]. Clip it as a Short: [yes / no]
+
+Hand the drops and the pattern to youtube-edit-list for the cut rows.
 ```
 
 ## Example

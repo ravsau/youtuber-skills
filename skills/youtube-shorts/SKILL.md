@@ -14,7 +14,7 @@ Output: one format call with the reason, the slices to cut, and a one-week calen
 1. State the viewer's job. A need with depth is long-form. A single tip or a reaction is a Short.
 2. Score the topic on the trade-off table below. Pick the column that wins on the channel's current goal.
 3. If long-form, list 3-6 moments that stand alone as Shorts.
-4. If Shorts only, set the length, the first-second hook, and the hashtags.
+4. If Shorts only, set the length, the first-second hook, and the hashtags. Write the hook in reverse (Jenny Hoyos): open on the payoff, then show how you got there. The opening line must hold both a "but" and a "then"; rewrite until it does.
 5. Fill the one-week calendar within the upload capacity.
 
 ## Trade-off
@@ -34,6 +34,8 @@ Output: one format call with the reason, the slices to cut, and a one-week calen
 - Both is the default when capacity allows. Long-form first, then cut the Shorts from it.
 - A Short opens on the payoff in the first second. No greeting, no context.
 - Shorts rank on audio, hashtags, and loop rate. Title and description matter less.
+- Swipe-away in the first 2 seconds is the filter. Target 90%+ retention; under 70% means the hook, not the topic, failed.
+- Any vertical or square upload of 3 minutes or less is a Short by YouTube's rule. Cut to 2:59 or shoot horizontal if you want long-form treatment.
 
 ## Output format
 
@@ -58,7 +60,7 @@ Input: `MLX vs GGUF on the same Mac, which format is faster; goal: subscribers; 
 Call: Both. Why: the benchmark needs the full run, and the single number is a Short.
 Long-form: 9 min, evergreen high
 Shorts to cut: 1. the final tok/s number side by side 2. the one setting that changed the result
-Short spec: 30s, hook "Same Mac, same model, one file format is 2x faster", hashtags #mlx #gguf #localai
+Short spec: 30s, hook "Same Mac, same model, but one file format ran 2x faster, then I found the one setting behind it", hashtags #mlx #gguf #localai
 
 | Day | Format | Angle |
 |-----|--------|-------|

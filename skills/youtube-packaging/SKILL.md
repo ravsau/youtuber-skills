@@ -13,10 +13,11 @@ Use these skill-specific defaults for package output; apply broader style heuris
 ## Steps
 
 1. State the viewer promise in one sentence. Note what the planned video can actually show.
-2. Draft 5 concise, front-loaded titles. Use varied angles supported by the footage; numbers, fear, and curiosity are optional, never filler.
+2. Draft 5 concise, front-loaded titles. Use varied angles supported by the footage; numbers, fear, and curiosity are optional, never filler. Make one of the 5 fit the Galloway formula: subject + quantified result + timeframe + mechanism promise ("How Beluga Gained 4M Subs in 3 Months (Genius Strategy)").
 3. Sketch distinct concepts for the same promise (for example, real proof, the workflow, or a consequence) before refining crops, colors, or text. Each thumbnail should add useful information; it may repeat a necessary name or unit.
 4. Apply the truth, legibility, feed-context, and comprehension checks in [Visual checks and example](VISUAL-CHECKS.md). Truth and readable meaning are hard gates.
 5. Compare passing pairs on appeal, clarity, distinctiveness, and brand fit. These are subjective editorial judgments, not CTR predictions. Recommend the strongest fit; explain the choice briefly.
+6. Name the backup. Title and thumbnail are a critical component (MrBeast handbook): the pick ships, the runner-up is the swap if the first-day CTR disappoints. Upload up to 3 thumbnails to YouTube Test & Compare; it picks the winner on watch-time share, not clicks.
 
 When metrics are available, do not diagnose packaging from a universal CTR cutoff. Read CTR alongside traffic source, impressions, audience, timing, and comparable channel history.
 
@@ -35,3 +36,4 @@ Use a table with title, character count, thumbnail concept, image text, truth/re
 ## Changelog
 
 - 2026-09-20: Added evidence, concept, comprehension, and feed-context gates; made style rules contextual and editorial scores explicitly subjective.
+- 2026-09-21: Added the Galloway title formula slot, the backup pair rule, Test & Compare, and the vidIQ 2026 breakout medians as a checklist in VISUAL-CHECKS.md.

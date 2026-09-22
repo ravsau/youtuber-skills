@@ -15,7 +15,7 @@ Output: a timed script with a hook, one segment per key point, an end screen, an
 2. Place a pattern interrupt at 0:25 (cut, zoom, graphic, or music change) and name it.
 3. Split the key points into segments of 60-90 seconds. Each segment has a setup (10-15 s), a tension build (40-60 s), and a payoff (10-15 s).
 4. End each payoff with the next segment's setup, so there is no gap.
-5. Every 3-5 minutes, add one re-engagement beat: a new constraint, a failure, a reveal, or a format change.
+5. Place re-engagement beats on the MrBeast minute map: the first spectacle at 3:00, the second at 6:00, then one every 3-5 minutes after. Each beat is a new constraint, a failure, a reveal, or a format change. Minutes 3-6 run fast scene changes; after 6:00 the back half needs its own payoff, not a summary.
 6. Write the end screen: one next video and the exact line that points to it.
 
 ## Rules

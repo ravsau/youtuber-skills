@@ -34,11 +34,13 @@ The title answers the question with a number and a failure. The thumbnail shows 
 | [youtube-packaging](skills/youtube-packaging/) | a topic | 5 title + thumbnail pairs, scored, with image prompts |
 | [youtube-script](skills/youtube-script/) | a packaged title | hook + setup-tension-payoff script |
 | [youtube-retention](skills/youtube-retention/) | a retention curve | timestamped fix list |
+| [youtube-edit-list](skills/youtube-edit-list/) | a transcript, optional retention drops | edit decision list, chapters, end frame |
 | [youtube-outliers](skills/youtube-outliers/) | a niche or channel | 3x outlier videos, their format, 3 adaptations |
 | [youtube-virality-gate](skills/youtube-virality-gate/) | a finished video plan | 8 gates, SHIP / FIX / KILL |
 | [youtube-description](skills/youtube-description/) | title + transcript, optional metrics | search vs browse call, title check, paste-ready description, tags |
 | [youtube-shorts](skills/youtube-shorts/) | a topic | Shorts / long-form / both, with a calendar |
 | [youtube-monetization](skills/youtube-monetization/) | niche, subs, revenue | ranked revenue stack, 90-day plan |
+| [youtube-channel-audit](skills/youtube-channel-audit/) | last 10-20 uploads, channel page | top-20% publish bar, outlier variable, page fixes |
 
 Every skill is under 90 lines: input, output, steps, template, one example.
 

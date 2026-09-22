@@ -25,6 +25,10 @@ Image prompt: Create a 16:9 thumbnail layout using the supplied real diff captur
 
 This is an editorial concept example, not user research or a performance benchmark.
 
+## Breakout medians (checklist, not gate)
+
+vidIQ studied 500 breakout long-form videos across 30 niches (June 2026): 69% of thumbnails show a face, 56% use high-contrast color, 89% use at least one of the two, and thumbnails with text hold a median of 5 words. [source: vidiq.com/blog/post/youtube-thumbnail-design-tips] Use these as a prompt, not a rule: if a concept has no face and no strong contrast, say why the object carries it. If the text runs past 5 words, cut or justify. Feed context still wins over any median.
+
 ## Source notes
 
 Source recommendations: `content-factory/measure/channels/cloudyeti/packaging-skills-audit-2026-09-20/recommendations.md`. The audit classifies concept, feed, and comprehension steps as proposed workflow or editorial judgment; it reports no universal winning palette, face rule, or text count. Official context: [YouTube title and thumbnail tips](https://support.google.com/youtube/answer/12340300?hl=en), [creator liaison on test design and color context](https://blog.youtube/creator-and-artist-stories/renes-top-five-june-14-2024/), and [YouTube CTR interpretation](https://support.google.com/youtube/answer/7628154?hl=en).
