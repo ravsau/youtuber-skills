@@ -25,6 +25,7 @@ Output: the curve shape, the problem timestamps, one cutting pattern, and a fix 
 | Under 5 min | 50% | 60% | Under 40% |
 | 5-15 min | 40% | 50% | Under 30% |
 | 15-30 min | 30% | 40% | Under 25% |
+| Over 30 min | 25% | 35% | Under 20% |
 | Shorts | 70% | 90% | Under 50% |
 
 ## Cutting patterns
@@ -59,8 +60,8 @@ Shape: [cliff / gradual / bump / flat]. Average: [X]%, [good / great / problem] 
 
 ## Example
 
-Input: `9-minute video, "MLX vs GGUF on the Same Mac"; 34% average; loses 38% by 0:30, flat to 6:00, bump at 6:40, slow fade after`
+Input: `9-minute video, "MLX vs GGUF on the Same Mac"; 28% average; loses 38% by 0:30, flat to 6:00, bump at 6:40, slow fade after`
 
-Shape: cliff, then a bump. 34% is a problem for 5-15 min. Drops: 0:00-0:30, the creator explains what MLX is before showing a number. Pattern: hybrid tempo, it is a tutorial. Fix list: 1. open on the two tok/s numbers side by side, then explain. 2. 6:40 has the rewatch spike where the quant setting flips, clip it as a Short. 3. Move the 7:30 summary to 8:10.
+Shape: cliff, then a bump. 28% is a problem for 5-15 min (under 30%). Drops: 0:00-0:30, the creator explains what MLX is before showing a number. Pattern: hybrid tempo, it is a tutorial. Fix list: 1. open on the two tok/s numbers side by side, then explain. 2. 6:40 has the rewatch spike where the quant setting flips, clip it as a Short. 3. Move the 7:30 summary to 8:10.
 
 CRITICAL: Every fix names a timestamp and one on-screen change. A fix without a timestamp is not a fix.

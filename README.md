@@ -36,12 +36,11 @@ The title answers the question with a number and a failure. The thumbnail shows 
 | [youtube-retention](skills/youtube-retention/) | a retention curve | timestamped fix list |
 | [youtube-outliers](skills/youtube-outliers/) | a niche or channel | 3x outlier videos, their format, 3 adaptations |
 | [youtube-virality-gate](skills/youtube-virality-gate/) | a finished video plan | 8 gates, SHIP / FIX / KILL |
-| [youtube-discovery](skills/youtube-discovery/) | a video or channel | search vs browse call, title/description/tag changes |
-| [youtube-description](skills/youtube-description/) | title + transcript, surface | paste-ready description: head, body in the surface's shape, fixed footer |
+| [youtube-description](skills/youtube-description/) | title + transcript, optional metrics | search vs browse call, title check, paste-ready description, tags |
 | [youtube-shorts](skills/youtube-shorts/) | a topic | Shorts / long-form / both, with a calendar |
 | [youtube-monetization](skills/youtube-monetization/) | niche, subs, revenue | ranked revenue stack, 90-day plan |
 
-Every skill is under 70 lines: input, output, steps, template, one example.
+Every skill is under 90 lines: input, output, steps, template, one example.
 
 ## Install
 

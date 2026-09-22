@@ -32,7 +32,7 @@ Output: 8 gate results, a verdict, and the fix list in priority order.
 
 - One fix per failed gate, written as a command with the exact change.
 - Do not soften a KILL. A low ceiling costs more than a skipped upload.
-- Shorts use gates 1-4 and 6 only.
+- Shorts use gates 1-4 and 6 only. Shorts verdict: 5 = SHIP, 4 = FIX, 3 or fewer = KILL.
 
 ## Output format
 

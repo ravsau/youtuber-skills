@@ -64,7 +64,7 @@ Kill weak ideas fast. Ship strong ones faster. Never publish content that damage
   6. A new viewer would subscribe after watching this?
   7. The format has proven demand (outlier evidence)?
   8. You're personally excited about this video?
-- If fewer than 6/8 pass: kill the video. The ceiling is too low.
+- 8 pass: ship. 6-7 pass: fix before upload. Fewer than 6: kill the video. The ceiling is too low.
 - If a concept doesn't excite the creator personally, kill it. Authenticity is non-negotiable.
 - Be honest about budget reality. Apply the principle, not the dollar amount: a $0 creator needs a creative constraint, not a $4M execution plan.
 - Consultants are cheat codes: recommend experts over DIY when it saves weeks
@@ -94,10 +94,4 @@ Everything starts with what the viewer wants. Not what the creator wants to make
 
 ## Retention Benchmarks
 
-| Length | Good | Problem |
-|--------|------|---------|
-| Under 5 min | 50-70% | Below 40% |
-| 5-15 min | 40-55% | Below 30% |
-| 15-30 min | 30-45% | Below 25% |
-| Over 30 min | 25-35% | Below 20% |
-| Shorts | 70%+ | Below 50% |
+The table lives in `skills/youtube-retention/SKILL.md`. Short form: good average retention is 50% under 5 min, 40% for 5-15 min, 30% for 15-30 min, 70% for Shorts. Problem is 10 points under good.
