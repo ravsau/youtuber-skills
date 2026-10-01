@@ -2,6 +2,11 @@
 
 Guidelines for Claude Code when assisting with YouTube content creation. Derived from MrBeast's production handbook and 10+ top YouTube strategists.
 
+## Handover (read first, write last)
+
+- **Start:** read `HANDOVER.md` before you do any work.
+- **Finish:** before you stop, update `HANDOVER.md`: the date, Done (what works now, key files, how to check it), Not checked, and Next (one to three tasks). Keep it under 40 lines. A new session must be able to continue from it with no other context.
+
 ## Operating Rule: Data Before Advice
 
 Do not guess when the question depends on specific channels, videos, platforms, competitors, or market timing. Research first, then advise.
